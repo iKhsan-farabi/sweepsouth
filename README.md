@@ -2,13 +2,12 @@
 
 # Aplikasi Laundry Sederhana
 
-Aplikasi ini merupakan aplikasi laundry sederhana yang dibuat dengan framework Laravel 7 (sudah diupgrade ke Laravel 9). Aplikasi ini adalah project untuk menyelesaikan UAS Metodologi Penulisan Ilmiah ITB STIKOM Bali.
+Aplikasi ini merupakan aplikasi laundry sederhana yang dibuat dengan framework Laravel 9. Aplikasi ini adalah project untuk menyelesaikan UAS Analisis dan perancangan sistem.
 
-Daftar/Register admin dengan url `/register-admin`. Secret key dapat diubah di env atau default "Secret123".
 
-Login admin:  
-Email : admin@laundryxyz.com  
-Pass : admin123
+Login petugas:  
+Email : admin@bersih.com  
+Pass : bismillah
 
 ## Instalasi
 
